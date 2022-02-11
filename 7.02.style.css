@@ -1,0 +1,16 @@
+    button{
+        color: white;
+        font-size: small;
+        border-radius:20px;
+        padding: 7px;
+    }
+    .save{
+        background-color: green;
+    }
+    .cancel{
+        background-color: red;
+    }
+    H1{
+        font-family: Georgia, 'Times New Roman', Times, serif; 
+        color:brown;
+    }
