@@ -1,16 +1,42 @@
-    button{
+    .button{
         color: white;
         font-size: small;
         border-radius:20px;
         padding: 7px;
+        background-color: aqua; 
     }
     .save{
-        background-color: green;
+        background-color: green !important;
+        border-color:black;
+        border: 5px dotted;
     }
     .cancel{
-        background-color: red;
+        background-color: red !important;
+        border-color:black;
+        border: 5px dashed;
     }
     H1{
         font-family: Georgia, 'Times New Roman', Times, serif; 
         color:brown;
+    }
+
+    .div1{
+        background-color: linen;
+    }
+
+    legend{
+        font-size: large;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-family: cursive;
+    }
+
+    .myRule{
+        font-size: larger;
+        color:aquamarine;
+        background-color: darkblue;
+    }
+
+    .Inborder{
+        background-color: aqua;
+        display: inline-block;
     }
