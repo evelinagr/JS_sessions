@@ -16,7 +16,9 @@
         border: 5px dashed;
     }
     H1{
-        font-family: Georgia, 'Times New Roman', Times, serif; 
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+        text-shadow: 4px 4px 4px #aaa;
         color:brown;
     }
 
@@ -32,7 +34,7 @@
 
     .myRule{
         font-size: larger;
-        color:aquamarine;
+        color:#058385;
         background-color: darkblue;
     }
 
