@@ -1,0 +1,6 @@
+.filterIcon{
+    background: url('filter.png');
+    heigt:65px;
+    width: 65px;
+    display:block;
+}
